@@ -49,5 +49,15 @@
     <!-- Content Attachment Manager -->
     <string name="attachment_manager_download_all_attachments">Download all attachments</string>
     <string name="attachment_manager_local_library">Local Library</string>
-    Local Library
+    
+    <!-- Layout Library -->
+    <string name="layout_library_zotero_collection">Zotero Collection</string>
+
+    <!-- Fragment Item Main -->
+    <string name="fragment_item_main_notes">Notes</string>
+    
+    <!-- Dialog filter menu -->
+    <string name="dialog_item_menu_sortBy">Sort by</string>
+    
+
 </resources>
