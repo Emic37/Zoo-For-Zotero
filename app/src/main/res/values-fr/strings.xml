@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Zoo for Zotero</string>
+    <string name="title_activity_sync_setup">Paramètres de synchronisation</string>
+    <string name="title_activity_zotero_api_setup">Zotero API</string>
+    <string name="title_activity_library">Chargement</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_item">ItemActivity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_title">Recherche</string>
+    <string name="search_hint">Search</string>
+    <string name="title_activity_settings">Paramètres</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="settings">Paramètres</string>
+    <string name="sync_method">Méthode de synchronisation</string>
+    <string name="syncing_header">Synchronisation</string>
+    <string name="title">Titre</string>
+    <string name="author">Auteur</string>
+    <string name="library_content_empty_library">This catalog is currently empty.\nPlease refresh your library.</string>
+    <string name="sort_method_title">Tri de la bibliothèque</string>
+    <string name="library_header">Bibliothèque</string>
+    <string name="unfiled_items">Unfiled Items</string>
+    <string name="my_library">Ma bibliothèque</string>
+    <string name="title_activity_web_davsetup">Paramètres WebDAV</string>
+    <string name="loading_library_text">Chargement de votre bibliothèque</string>
+    <string name="setting_sync_attachments_location">Emplacement des fichiers joints</string>
+    <string name="title_activity_attachment_manager">Attachment Downloader</string>
+    <string name="attachment_manager">Gestionnaire de fichiers joints</string>
+    <string name="setup_webdav">Configurer WebDAV</string>
+    <string name="zotero_save">Zotero Save</string>
+    <string name="loading_your_library">Chargement de votre bibliothèque</string>
+    <string name="filter">Filter Menu</string>
+    <string name="force_resync">Force Resync</string>
+    <string name="app_frontpage_disclaimer">You must use the official Zotero Account syncing to use this app.</string>
+    <string name="proceed">Proceed</string>
+    <string name="enter_your_zotero_api_key_manually">Enter your Zotero API Key Manually</string>
+    <string name="zotero_account_sync">Zotero Account Sync</string>
+    <string name="pick_your_cloud_storage_provider">Pick your cloud storage provider</string>
+</resources>
