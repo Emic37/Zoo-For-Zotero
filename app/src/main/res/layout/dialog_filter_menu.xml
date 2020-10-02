@@ -17,7 +17,7 @@
                 android:id="@+id/textView_label_sortingmethod"
                 android:layout_width="57dp"
                 android:layout_height="wrap_content"
-                android:text="Sort By"
+                android:text="@string/dialog_item_menu_sortBy"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                 app:layout_constraintBottom_toBottomOf="@+id/button_sort_by"
                 app:layout_constraintStart_toStartOf="parent"
