@@ -15,7 +15,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:paddingTop="@dimen/nav_header_vertical_spacing"
-            android:text="Zotero Collection"
+            android:text="@string/layout_library_zotero_collection"
             android:textAppearance="@style/TextAppearance.AppCompat.Title"
             android:textColor="@android:color/white"
             android:textSize="24sp" />
