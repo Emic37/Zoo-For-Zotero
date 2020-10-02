@@ -45,4 +45,9 @@
     <string name="enter_your_zotero_api_key_manually">Enter your Zotero API Key Manually</string>
     <string name="zotero_account_sync">Zotero Account Sync</string>
     <string name="pick_your_cloud_storage_provider">Pick your cloud storage provider</string>
+    
+    <!-- Content Attachment Manager -->
+    <string name="attachment_manager_download_all_attachments">Download all attachments</string>
+    <string name="attachment_manager_local_library">Local Library</string>
+    Local Library
 </resources>
